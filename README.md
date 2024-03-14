@@ -22,3 +22,6 @@ DB_NAME=dbname
 Upload the folder containing the **.env** and the **index.php** on your **htdocs** or on your web hosting.
 
 If you want to host this on your machine you should use **MAMP** or **XAMPP** with **Apache** and  **MySql**.
+
+# Join the discord
+https://discord.gg/ey9UwJCP
