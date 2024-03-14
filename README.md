@@ -1,4 +1,4 @@
-# Characters-Web-Panel
+# Characters-Web-Panel for REDM (VORP)
 
 Use this webpage to access the Character list, be able to View them easily without touching directly your Database.
 
